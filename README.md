@@ -96,10 +96,10 @@ Retail organizations generate vast amounts of transactional data daily across mu
 
 ```
 .
-├── TVS_DW_assg4.ipynb                   # Primary Databricks PySpark & SQL Pipeline Notebook
-├── Assignment4-Retail-Data-Engineering.pdf  # Detailed Technical Requirements & Assignment Specifications
-├── .gitignore                           # Excluded temporary, system, and checkpoint files
-└── README.md                            # Complete Project Architecture & Documentation
+├── Retail_Data_Engineering_Pipeline.ipynb             # Primary Databricks PySpark & SQL Pipeline Notebook
+├── Retail_Data_Engineering_Project_Documentation.pdf # Detailed Technical Requirements & Project Specifications
+├── .gitignore                                         # Excluded temporary, system, and checkpoint files
+└── README.md                                          # Complete Project Architecture & Documentation
 ```
 
 ---
