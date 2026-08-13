@@ -1,0 +1,33 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python byte-compiled / environment files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Databricks & Spark outputs
+spark-warehouse/
+metastore_db/
+*.db
+.databricks/
+
+# Logs & Temporary files
+*.log
+*.tmp
+.idea/
+.vscode/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+[Dd]esktop.ini
